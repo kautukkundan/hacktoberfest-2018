@@ -22,7 +22,7 @@ def binarySearch(arr, l, r, x):
   
   
 # Test array 
-arr = [ 2, 3, 4, 10, 40 ] 
+arr = [ 1, 3, 8, 10, 50 ] 
 x = 10
   
 # Function call 
